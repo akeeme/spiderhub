@@ -78,10 +78,10 @@ There are various controls and items across the map, here is how to use them.
 ### Controls
 
 
-  ```W``` - Move up
-  ```A``` - Move left
-  ```S``` - Move down
-  ```D``` - Move right
+  ```W``` - Move up <br />
+  ```A``` - Move left <br />
+  ```S``` - Move down <br />
+  ```D``` - Move right <br />
 
 ### Items
 
