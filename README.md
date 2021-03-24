@@ -86,9 +86,9 @@ There are various controls and items across the map, here is how to use them.
 ### Items
 
 
-   ```<img src = "https://lh3.googleusercontent.com/proxy/1UjOfTNfGKlGjEaU1wHz4tqD5F3qDaCPYk_1u_d3WBShPAN4VTb98jzzTIDX9ltoPDilhga-RlrjNCcTRisIxQgT3mk7Pnea" alt = "red potion" height = "10%" width = "10%">
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
+   <img src = "https://lh3.googleusercontent.com/proxy/1UjOfTNfGKlGjEaU1wHz4tqD5F3qDaCPYk_1u_d3WBShPAN4VTb98jzzTIDX9ltoPDilhga-RlrjNCcTRisIxQgT3mk7Pnea" alt = "red potion" height = "10%" width = "10%">
+   
+   
 3. Install NPM packages
    ```sh
    npm install
