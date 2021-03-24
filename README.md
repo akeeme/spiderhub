@@ -86,7 +86,7 @@ There are various controls and items across the map, here is how to use them.
 ### Items
 
 
-   <p> <img src = "https://lh3.googleusercontent.com/proxy/1UjOfTNfGKlGjEaU1wHz4tqD5F3qDaCPYk_1u_d3WBShPAN4VTb98jzzTIDX9ltoPDilhga-RlrjNCcTRisIxQgT3mk7Pnea" alt = "red potion" height = "5%" width = "5%"> </p> <br> 
+   <p> <img src = "https://lh3.googleusercontent.com/proxy/1UjOfTNfGKlGjEaU1wHz4tqD5F3qDaCPYk_1u_d3WBShPAN4VTb98jzzTIDX9ltoPDilhga-RlrjNCcTRisIxQgT3mk7Pnea" alt = "red potion" height = "5%" width = "5%"> </p>
    
    ```Red Potion``` - Invincibility for 10 seconds
    
