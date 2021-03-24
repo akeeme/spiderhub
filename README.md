@@ -1,4 +1,3 @@
-![Uploading yellowpotion.png…]()
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -89,9 +88,9 @@ There are various controls and items across the map, here is how to use them.
 
    <p> <img src = "https://lh3.googleusercontent.com/proxy/1UjOfTNfGKlGjEaU1wHz4tqD5F3qDaCPYk_1u_d3WBShPAN4VTb98jzzTIDX9ltoPDilhga-RlrjNCcTRisIxQgT3mk7Pnea" alt = "red potion" height = "5%" width = "5%"> <br> Red Potion - Invincibility for 10 seconds</p>
    <br>
-   <p> ![yellowpotion](https://user-images.githubusercontent.com/22639000/112358366-a8d62b80-8ca6-11eb-982d-a7adb7355ac3.png)
+   ![yellowpotion](https://user-images.githubusercontent.com/22639000/112358366-a8d62b80-8ca6-11eb-982d-a7adb7355ac3.png)
    <br>
-   Yellow Potion - Speed </p>
+   <p> Yellow Potion - Speed </p>
    
 3. Install NPM packages
    ```sh
