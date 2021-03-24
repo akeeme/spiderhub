@@ -55,7 +55,7 @@
 ## About The Project
 
 
-<img src="https://media.giphy.com/media/o16VoyMYtpfM7QHFVK/giphy.gif" alt="gameplay gif">
+<img src="https://media.giphy.com/media/o16VoyMYtpfM7QHFVK/giphy.gif" alt="gameplay gif" width = "100%" height = "100%">
 
 <!-- ![Alt Text](https://media.giphy.com/media/o16VoyMYtpfM7QHFVK/giphy.gif) -->
 
