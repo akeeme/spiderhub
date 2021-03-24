@@ -60,7 +60,6 @@ Throughout January and most of February 2021, I was apart of an internship progr
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Unity](https://unity.com/)
 * [Visual Studio](https://visualstudio.microsoft.com/)
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
