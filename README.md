@@ -54,7 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Alt Text](product-screenshot]](https://media.giphy.com/media/o16VoyMYtpfM7QHFVK/giphy.gif)
+![Alt Text](https://media.giphy.com/media/o16VoyMYtpfM7QHFVK/giphy.gif)
 
 
 <!-- [![Product Name Screen Shot][) -->
