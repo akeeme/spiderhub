@@ -54,7 +54,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Alt Text](https://media.giphy.com/media/o16VoyMYtpfM7QHFVK/giphy.gif)
+
+<img src="https://media.giphy.com/media/o16VoyMYtpfM7QHFVK/giphy.gif" alt="gameplay gif">
+
+<!-- ![Alt Text](https://media.giphy.com/media/o16VoyMYtpfM7QHFVK/giphy.gif) -->
 
 
 <!-- [![Product Name Screen Shot][) -->
