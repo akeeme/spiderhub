@@ -57,21 +57,9 @@
 
 <img src="https://media.giphy.com/media/o16VoyMYtpfM7QHFVK/giphy.gif" alt="gameplay gif" width = "100%" height = "100%">
 
-<!-- ![Alt Text](https://media.giphy.com/media/o16VoyMYtpfM7QHFVK/giphy.gif) -->
 
+Throughout January and most of February 2021, I was apart of an internship program with the NYPD where I was taught video game develepment using Unity and C#. The game previewed above is the game created. It is a 2D arcade type game where the objective is to kill all the spiders before they kill you.
 
-<!-- [![Product Name Screen Shot][) -->
-
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
 
@@ -83,24 +71,22 @@ This section should list any major frameworks that you built your project using.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## How To Play
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+There are various controls and items across the map, here is how to use them.
 
-### Prerequisites
+### Controls
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
-### Installation
+  ```W``` - Move up
+  ```A``` - Move left
+  ```S``` - Move down
+  ```D``` - Move right
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
+### Items
+
+
+   ```<img src = "https://lh3.googleusercontent.com/proxy/1UjOfTNfGKlGjEaU1wHz4tqD5F3qDaCPYk_1u_d3WBShPAN4VTb98jzzTIDX9ltoPDilhga-RlrjNCcTRisIxQgT3mk7Pnea" alt = "red potion" height = "10%" width = "10%">
    git clone https://github.com/your_username_/Project-Name.git
    ```
 3. Install NPM packages
