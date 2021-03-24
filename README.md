@@ -82,6 +82,8 @@ There are various controls and items across the map, here is how to use them.
   ```A``` - Move left <br />
   ```S``` - Move down <br />
   ```D``` - Move right <br />
+  ```Space``` - Special <br />
+
 
 ### Items
 
@@ -94,6 +96,10 @@ There are various controls and items across the map, here is how to use them.
    <p> <img src = "https://user-images.githubusercontent.com/22639000/112358366-a8d62b80-8ca6-11eb-982d-a7adb7355ac3.png" alt = "yellow potion" height = "5%" width = "5%")</p> <br /> 
   
   ```Yellow Potion``` - Speed
+  
+   <p> <img src = "https://user-images.githubusercontent.com/22639000/112359530-bc35c680-8ca7-11eb-8acd-8ccb3d179b4d.png" alt = "white potion" height = "5%" width = "5%")</p> <br /> 
+  
+  ```White Potion``` - Speeds up time before next special 
    
 3. Install NPM packages
    ```sh
